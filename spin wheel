@@ -89,7 +89,7 @@
 </head>
 <body>
   <video autoplay muted loop class="bg-video">
-    <source src="[# Spin-wheel-](https://www.vecteezy.com/members/ezstudio/uploads" type="video/mp4">
+    <source src="" type="video/mp4">
   </video>
   <div class="overlay"></div>
 
